@@ -1,1 +1,22 @@
-# -
+
+n_iters is 100 costs is 1.02527209719
+n_iters is 200 costs is 9.84673022308
+n_iters is 300 costs is 0.764509961223
+n_iters is 400 costs is 0.221591981264
+n_iters is 500 costs is 0.0857626566961
+n_iters is 600 costs is 1.1101659429
+n_iters is 700 costs is 0.0310470573907
+n_iters is 800 costs is 0.0179486508436
+n_iters is 900 costs is 0.0134753933228
+n_iters is 1000 costs is 0.0111346749881
+n_iters is 1100 costs is 0.00966654231604
+n_iters is 1200 costs is 0.00864102819557
+n_iters is 1300 costs is 0.00787139659015
+n_iters is 1400 costs is 0.00726452295682
+n_iters is 1500 costs is 0.00676894785335
+n_iters is 1600 costs is 0.00635376088321
+n_iters is 1700 costs is 0.00599909601285
+n_iters is 1800 costs is 0.00569147545358
+n_iters is 1900 costs is 0.00542135131144
+the train acc is 100.0 %
+the test acc is 68.0 %
